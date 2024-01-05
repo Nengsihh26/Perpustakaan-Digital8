@@ -1,0 +1,33 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa; /* Warna latar belakang */
+    color: #495057; /* Warna teks */
+}
+
+.container {
+    margin-top: 20px;
+}
+
+/* Gaya tombol dan input */
+.btn {
+    margin-right: 5px;
+}
+
+/* Gaya tabel */
+.table {
+    margin-top: 20px;
+}
+
+.button-edit {
+    background-color: #ffc107;
+    border-color: #ffc107;
+}
+
+.button-edit:hover {
+    background-color: #e0a800;
+    border-color: #e0a800;
+}
+
+.table td, .table th {
+    padding: 8px;
+}
